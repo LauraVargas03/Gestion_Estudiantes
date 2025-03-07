@@ -12,5 +12,9 @@ Evaluar cómo la optimización afecta el consumo de memoria y el tiempo de ejecu
    - Después: Ejecuta el programa con optimización de memoria (reservando solo lo necesario).
 
 2. Mostrar los resultados en una tabla comparativa.
-   |Métrica|Sin optimización|Con optimización|
-   |Memoria utilizada total|1000 bytes|245|
+   | Métrica | Sin optimización | Con optimización |
+   |---|---|---|
+   | Memoria utilizada total | 1000 bytes | 245 bytes |
+   | Fragmentación detectada | Alta | Baja o nula |
+   | Tiempo de ejecución | 0.001 | 0.001 |
+   
