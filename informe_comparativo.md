@@ -8,8 +8,8 @@ Evaluar cómo la optimización afecta el consumo de memoria y el tiempo de ejecu
 
 ## ¿Qué se va a realizar?
 1. Medir la memoria utilizada antes y después de optimizar.
-   - Antes: Ejecuta el programa sin aplicar optimizaciones (reservando más memoria de la necesaria).
-   - Después: Ejecuta el programa con optimización de memoria (reservando solo lo necesario).
+   - Antes: Ejecutar el programa sin aplicar optimizaciones (reservando más memoria de la necesaria).
+   - Después: Ejecutar el programa con optimización de memoria (reservando solo lo necesario).
 
 2. Mostrar los resultados en una tabla comparativa.
    | Métrica | Sin optimización | Con optimización |
